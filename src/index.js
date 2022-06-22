@@ -27,7 +27,6 @@ const App = () => {
             <button onClick={() => completeTask(el.id)}>Completed</button>
             <button onClick={() => changeTitle(el.id)}>Change title</button>
             <button onClick={() => deleteTask(el.id)}>Delete</button>
-            <button onClick={() => deleteTask(el.id)}>Delete</button>
             <hr/>
           </li>
         ))}
