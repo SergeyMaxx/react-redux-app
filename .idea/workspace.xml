@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8d4e500-8dc6-418d-8c3f-465c25092d47" name="Changes" comment="change">
+    <list default="true" id="e8d4e500-8dc6-418d-8c3f-465c25092d47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/services/http.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/todos.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/middleware/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/middleware/thunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/task.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/task/actionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/task/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/task/reduser.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +96,9 @@
       <workItem from="1655726606645" duration="2863000" />
       <workItem from="1655806013200" duration="6185000" />
       <workItem from="1655820279852" duration="5809000" />
-      <workItem from="1655897783704" duration="16051000" />
+      <workItem from="1655897783704" duration="17102000" />
+      <workItem from="1655975418434" duration="16562000" />
+      <workItem from="1656066916337" duration="15894000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1655914514130</created>
@@ -101,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655914581104</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" button">
+      <created>1655915951551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655915951551</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" button -">
+      <created>1655916064366</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655916064366</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +137,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sdsdds" />
     <MESSAGE value="change" />
-    <option name="LAST_COMMIT_MESSAGE" value="change" />
+    <MESSAGE value=" button" />
+    <MESSAGE value=" button -" />
+    <option name="LAST_COMMIT_MESSAGE" value=" button -" />
   </component>
 </project>
