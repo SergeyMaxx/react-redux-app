@@ -23,7 +23,9 @@ const taskSlice = createSlice({
       }
     },
     remove(state, action) {
-      return state.entities.filter(el => el.id !== action.payload.id)
+      state.entities = state.entities.filter(el => {
+        return el.id !== action.payload.id
+      })
     },
     loadTasksRequested(state) {
       state.isLoading = true

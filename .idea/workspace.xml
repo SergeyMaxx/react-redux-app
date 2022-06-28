@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8d4e500-8dc6-418d-8c3f-465c25092d47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/services/http.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/todos.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/errors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/middleware/logger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/middleware/thunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/task.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/task/actionTypes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/task/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/task/reduser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/task.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fast-company" />
+    <property name="last_opened_file_path" value="D:/sp-front" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -98,7 +87,10 @@
       <workItem from="1655820279852" duration="5809000" />
       <workItem from="1655897783704" duration="17102000" />
       <workItem from="1655975418434" duration="16562000" />
-      <workItem from="1656066916337" duration="15894000" />
+      <workItem from="1656066916337" duration="16100000" />
+      <workItem from="1656142518698" duration="3358000" />
+      <workItem from="1656227351861" duration="849000" />
+      <workItem from="1656404108760" duration="2954000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1655914514130</created>
@@ -128,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655916064366</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Redux part-1">
+      <created>1656086117636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656086117636</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +138,7 @@
     <MESSAGE value="change" />
     <MESSAGE value=" button" />
     <MESSAGE value=" button -" />
-    <option name="LAST_COMMIT_MESSAGE" value=" button -" />
+    <MESSAGE value="Redux part-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redux part-1" />
   </component>
 </project>
